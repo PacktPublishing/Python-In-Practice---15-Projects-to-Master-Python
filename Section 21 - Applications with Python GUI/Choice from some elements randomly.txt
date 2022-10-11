@@ -1,0 +1,9 @@
+The source code for the random element picker is given it this articles resources, you can download it from there!
+
+You can play around with application like:
+- change it's theme
+- add an icon
+- add some lines of code to alter the random seed
+- add some more widgets
+
+It will be a fun exercise to modify it's source code!

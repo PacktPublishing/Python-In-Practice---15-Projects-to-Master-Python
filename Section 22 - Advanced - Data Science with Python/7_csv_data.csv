@@ -1,0 +1,9 @@
+﻿id,name,price,sales,brand
+101,biscuits,5,227,HomeFoods
+102,cookies,7.25,158,TBakery
+103,cake,12,50,TBakery
+104,whey_supplement,34.9,24,MusleUp
+105,soft_drink,,,Kola
+106,potato_chips,1.75,121,HomeFoods
+107,noodles,0.99,,InstantNoodle
+108,protein_bars,4.9,85,MusleUp

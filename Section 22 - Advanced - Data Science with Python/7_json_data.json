@@ -1,0 +1,44 @@
+[
+  {
+    "id": 101,
+    "name": "biscuits",
+    "price": 5,
+    "sales": 227,
+    "brand": "HomeFoods"
+  },
+  {
+    "id": 102,
+    "name": "cookies",
+    "price": 7.25,
+    "sales": 158,
+    "brand": "TBakery"
+  },
+  {
+    "id": 103,
+    "name": "cake",
+    "price": 12,
+    "sales": 50,
+    "brand": "TBakery"
+  },
+  {
+    "id": 104,
+    "name": "whey_supplement",
+    "price": 34.9,
+    "sales": 24,
+    "brand": "MusleUp"
+  },
+  {
+    "id": 105,
+    "name": "protein_bars",
+    "price": 4.9,
+    "sales": 85,
+    "brand": "MusleUp"
+  },
+  {
+    "id": 106,
+    "name": "potato_chips",
+    "price": 1.75,
+    "sales": 121,
+    "brand": "HomeFoods"
+  }
+]

@@ -1,0 +1,8 @@
+Hiberbee Theme
+	Link : https://plugins.jetbrains.com/plugin/12118-hiberbee-theme
+
+Monokai Spectrum Pro
+	Link : https://plugins.jetbrains.com/plugin/12486-monokai-pro-spectrum-color-scheme
+
+Dark Jeff Theme
+	Link : https://plugins.jetbrains.com/plugin/12198-dark-jeff-theme

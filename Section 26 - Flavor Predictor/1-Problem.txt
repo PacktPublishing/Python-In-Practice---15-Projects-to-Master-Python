@@ -1,0 +1,1 @@
+Create a machine learning model to predict which flavor does a person likes or prefers if the person's age and gender is given as input. Here is a sample dataset of 20 customers with their age, gender and flavor preference:

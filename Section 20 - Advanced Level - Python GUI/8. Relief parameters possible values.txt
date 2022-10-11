@@ -1,0 +1,7 @@
+The following can be 5 possible values for the relief parameter:
+	- flat
+	- sunken
+	- raised
+	- groove
+	- ridge
+
